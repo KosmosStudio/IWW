@@ -2976,22 +2976,17 @@ public class Emerald_AI : MonoBehaviour {
 	}
 
 	public void DamagePlayer(){
-		//If you'd like AI to damage RFPS, simple uncomment this and comment out the PlayerHealth if statement.
-		/*
-		if (CurrentTarget != null && CurrentTarget.GetComponent<FPSPlayer>() != null){
-			CurrentTarget.GetComponent<FPSPlayer>().ApplyDamage((float)CurrentDamageAmount, transform, true);
-		}
-		*/
-		if (CurrentTarget != null && CurrentTarget.GetComponent<PlayerHealth>() != null){
-			CurrentTarget.GetComponent<PlayerHealth>().DamagePlayer((float)CurrentDamageAmount);
-		}
-	}
-		
-	/// <summary>
-	/// Plays an emote animation according to the Animation Clip parameter. Note: This function will only work if
-	/// an AI is not in active combat mode.
-	/// </summary>
-	public void PlayEmoteAnimation (int EmoteAnimationID){
+        if (CurrentTarget != null && CurrentTarget.GetComponent<vp_FPPlayerDamageHandler>())
+        {
+            CurrentTarget.GetComponent<vp_FPPlayerDamageHandler>().Damage(CurrentDamageAmount);
+        }
+        }
+
+        /// <summary>
+        /// Plays an emote animation according to the Animation Clip parameter. Note: This function will only work if
+        /// an AI is not in active combat mode.
+        /// </summary>
+        public void PlayEmoteAnimation (int EmoteAnimationID){
 		//Look through each animation in the EmoteAnimationList for the appropriate ID.
 		//Once found, play the animaition of the same index as the found ID.
 		for (int i = 0; i < EmoteAnimationList.Count; i++){
