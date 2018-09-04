@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 120
+  controlID: 10072
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 74
+  controlID: 10073
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 51
+  controlID: 10044
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,9 +203,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 883cfdff
-    m_LastClickedID: -181112
-    m_ExpandedIDs: d23dfdffa440fdff00000000
+    m_SelectedIDs: c8300200
+    m_LastClickedID: 0
+    m_ExpandedIDs: eeccf4ffd23dfdffa440fdff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -288,9 +288,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10.420637, y: 0.73880976, z: 0.54458725}
+    m_Target: {x: 10.66613, y: 0.9829904, z: 0.08577442}
     speed: 2
-    m_Value: {x: 10.420637, y: 0.73880976, z: 0.54458725}
+    m_Value: {x: 10.66613, y: 0.9829904, z: 0.08577442}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -318,13 +318,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.09080894, y: 0.8715104, z: -0.17649123, w: -0.44841295}
+    m_Target: {x: -0.08001929, y: 0.88627064, z: -0.16705823, w: -0.42451516}
     speed: 2
-    m_Value: {x: -0.09080895, y: 0.87151045, z: -0.17649125, w: -0.44841298}
+    m_Value: {x: -0.08001928, y: 0.8862705, z: -0.16705821, w: -0.4245151}
   m_Size:
-    m_Target: 5.5416594
+    m_Target: 3.7416584
     speed: 2
-    m_Value: 5.5416594
+    m_Value: 3.7416584
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -400,6 +400,7 @@ MonoBehaviour:
     - {fileID: 110747840, guid: 24ab492d2f3f064498c8040aa7d4004b, type: 2}
     - {fileID: 110747840, guid: 865eec272af0ca34f861a1e1ccd57361, type: 2}
     - {fileID: 1107504618163143962, guid: 4e41075949992644c8040bbedd8b3de8, type: 2}
+    - {fileID: 110747840, guid: 5f9b2345b38a2264eb61939be4284c77, type: 2}
     m_ValueSerializationHelper:
     - e00: 0.56069136
       e01: 0
@@ -593,9 +594,28 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+    - e00: 0.7124985
+      e01: 0
+      e02: 0
+      e03: 49.83424
+      e10: 0
+      e11: 0.7124985
+      e12: 0
+      e13: -58.068634
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 0}
-  m_BreadCrumbs: []
+  m_AnimatorController: {fileID: 9100000, guid: 5f9b2345b38a2264eb61939be4284c77,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 110747840, guid: 5f9b2345b38a2264eb61939be4284c77, type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -672,20 +692,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/__AnimClips__/TOWN/ODICHALIE
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/__AnimClips__/TOWN/ODICHALIE
   m_LastFoldersGridSize: 16
   m_LastProjectPath: F:\__IWW_git\IWW_prj02
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78d70000
-    m_LastClickedID: 55160
-    m_ExpandedIDs: 0000000004d4000000ca9a3b
+    m_SelectedIDs: ccda0000
+    m_LastClickedID: 56012
+    m_ExpandedIDs: 0000000004d4000004d600002cd700001cd9000006db0000f0dd000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -713,7 +733,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000004d4000004d600002cd700001cd9000006db0000f0dd000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -738,10 +758,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 883cfdff
-    m_LastClickedInstanceID: -181112
+    m_SelectedInstanceIDs: c8300200
+    m_LastClickedInstanceID: 143560
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 609902003ae3030058e607005af3010084be0300f2ca030080680000481901000c5f0000f01d0000f8940000181c00009c6b00001eb2000026b200002eb20000c8840000ac4d01000644000066cd0000ec4200008444000092440000e0480000e4af020052ad0300be460400662f05001e6a050020490000
+    m_ExpandedInstanceIDs: 609902003ae3030058e607005af3010084be0300f2ca030080680000481901000c5f0000f01d0000f8940000181c00009c6b00001eb2000026b200002eb20000c8840000ac4d01000644000066cd0000ec4200008444000092440000e0480000e4af020052ad0300be460400662f05001e6a0500204900007ed00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -821,7 +841,7 @@ MonoBehaviour:
   m_AnimEditor: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -2576766
+  m_LastSelectedObjectID: -733970
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -942,9 +962,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1199
+    x: 1159
     y: 92
-    width: 721
+    width: 761
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
