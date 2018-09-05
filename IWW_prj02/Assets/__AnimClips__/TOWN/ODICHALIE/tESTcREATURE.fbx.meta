@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 851d1e6c260d8b946811710bef92f0b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LizardRig:Bip001
+    100002: LizardRig:Bip001 Footsteps
+    100004: LizardRig:Bip001 Head
+    100006: LizardRig:Bip001 HeadNub
+    100008: LizardRig:Bip001 L Calf
+    100010: LizardRig:Bip001 L Clavicle
+    100012: LizardRig:Bip001 L Finger0
+    100014: LizardRig:Bip001 L Finger01
+    100016: LizardRig:Bip001 L Finger0Nub
+    100018: LizardRig:Bip001 L Finger1
+    100020: LizardRig:Bip001 L Finger11
+    100022: LizardRig:Bip001 L Finger1Nub
+    100024: LizardRig:Bip001 L Finger2
+    100026: LizardRig:Bip001 L Finger21
+    100028: LizardRig:Bip001 L Finger2Nub
+    100030: LizardRig:Bip001 L Finger3
+    100032: LizardRig:Bip001 L Finger31
+    100034: LizardRig:Bip001 L Finger3Nub
+    100036: LizardRig:Bip001 L Foot
+    100038: LizardRig:Bip001 L Forearm
+    100040: LizardRig:Bip001 L Hand
+    100042: LizardRig:Bip001 L HorseLink
+    100044: LizardRig:Bip001 L Thigh
+    100046: LizardRig:Bip001 L Toe0
+    100048: LizardRig:Bip001 L Toe01
+    100050: LizardRig:Bip001 L Toe0Nub
+    100052: LizardRig:Bip001 L Toe1
+    100054: LizardRig:Bip001 L Toe11
+    100056: LizardRig:Bip001 L Toe1Nub
+    100058: LizardRig:Bip001 L Toe2
+    100060: LizardRig:Bip001 L Toe21
+    100062: LizardRig:Bip001 L Toe2Nub
+    100064: LizardRig:Bip001 L UpperArm
+    100066: LizardRig:Bip001 Neck
+    100068: LizardRig:Bip001 Neck1
+    100070: LizardRig:Bip001 Pelvis
+    100072: LizardRig:Bip001 Ponytail1
+    100074: LizardRig:Bip001 Ponytail1Nub
+    100076: LizardRig:Bip001 Ponytail2
+    100078: LizardRig:Bip001 Ponytail21
+    100080: LizardRig:Bip001 Ponytail22
+    100082: LizardRig:Bip001 Ponytail2Nub
+    100084: LizardRig:Bip001 R Calf
+    100086: LizardRig:Bip001 R Clavicle
+    100088: LizardRig:Bip001 R Finger0
+    100090: LizardRig:Bip001 R Finger01
+    100092: LizardRig:Bip001 R Finger0Nub
+    100094: LizardRig:Bip001 R Finger1
+    100096: LizardRig:Bip001 R Finger11
+    100098: LizardRig:Bip001 R Finger1Nub
+    100100: LizardRig:Bip001 R Finger2
+    100102: LizardRig:Bip001 R Finger21
+    100104: LizardRig:Bip001 R Finger2Nub
+    100106: LizardRig:Bip001 R Finger3
+    100108: LizardRig:Bip001 R Finger31
+    100110: LizardRig:Bip001 R Finger3Nub
+    100112: LizardRig:Bip001 R Foot
+    100114: LizardRig:Bip001 R Forearm
+    100116: LizardRig:Bip001 R Hand
+    100118: LizardRig:Bip001 R HorseLink
+    100120: LizardRig:Bip001 R Thigh
+    100122: LizardRig:Bip001 R Toe0
+    100124: LizardRig:Bip001 R Toe01
+    100126: LizardRig:Bip001 R Toe0Nub
+    100128: LizardRig:Bip001 R Toe1
+    100130: LizardRig:Bip001 R Toe11
+    100132: LizardRig:Bip001 R Toe1Nub
+    100134: LizardRig:Bip001 R Toe2
+    100136: LizardRig:Bip001 R Toe21
+    100138: LizardRig:Bip001 R Toe2Nub
+    100140: LizardRig:Bip001 R UpperArm
+    100142: LizardRig:Bip001 Spine
+    100144: LizardRig:Bip001 Spine1
+    100146: LizardRig:Bip001 Spine2
+    100148: LizardRig:Bip001 Tail
+    100150: LizardRig:Bip001 Tail1
+    100152: LizardRig:Bip001 Tail2
+    100154: LizardRig:Bip001 Tail3
+    100156: LizardRig:Bip001 Tail4
+    100158: LizardRig:Bip001 Tail5
+    100160: LizardRig:Bip001 TailNub
+    100162: LizardRig:eye1
+    100164: LizardRig:eye2
+    100166: LizardRig:Lizard_pinky
+    100168: LizardRig:SKINSKELETON
+    100170: LizardRig:ToDecimate_fbx
+    100172: //RootNode
+    400000: LizardRig:Bip001
+    400002: LizardRig:Bip001 Footsteps
+    400004: LizardRig:Bip001 Head
+    400006: LizardRig:Bip001 HeadNub
+    400008: LizardRig:Bip001 L Calf
+    400010: LizardRig:Bip001 L Clavicle
+    400012: LizardRig:Bip001 L Finger0
+    400014: LizardRig:Bip001 L Finger01
+    400016: LizardRig:Bip001 L Finger0Nub
+    400018: LizardRig:Bip001 L Finger1
+    400020: LizardRig:Bip001 L Finger11
+    400022: LizardRig:Bip001 L Finger1Nub
+    400024: LizardRig:Bip001 L Finger2
+    400026: LizardRig:Bip001 L Finger21
+    400028: LizardRig:Bip001 L Finger2Nub
+    400030: LizardRig:Bip001 L Finger3
+    400032: LizardRig:Bip001 L Finger31
+    400034: LizardRig:Bip001 L Finger3Nub
+    400036: LizardRig:Bip001 L Foot
+    400038: LizardRig:Bip001 L Forearm
+    400040: LizardRig:Bip001 L Hand
+    400042: LizardRig:Bip001 L HorseLink
+    400044: LizardRig:Bip001 L Thigh
+    400046: LizardRig:Bip001 L Toe0
+    400048: LizardRig:Bip001 L Toe01
+    400050: LizardRig:Bip001 L Toe0Nub
+    400052: LizardRig:Bip001 L Toe1
+    400054: LizardRig:Bip001 L Toe11
+    400056: LizardRig:Bip001 L Toe1Nub
+    400058: LizardRig:Bip001 L Toe2
+    400060: LizardRig:Bip001 L Toe21
+    400062: LizardRig:Bip001 L Toe2Nub
+    400064: LizardRig:Bip001 L UpperArm
+    400066: LizardRig:Bip001 Neck
+    400068: LizardRig:Bip001 Neck1
+    400070: LizardRig:Bip001 Pelvis
+    400072: LizardRig:Bip001 Ponytail1
+    400074: LizardRig:Bip001 Ponytail1Nub
+    400076: LizardRig:Bip001 Ponytail2
+    400078: LizardRig:Bip001 Ponytail21
+    400080: LizardRig:Bip001 Ponytail22
+    400082: LizardRig:Bip001 Ponytail2Nub
+    400084: LizardRig:Bip001 R Calf
+    400086: LizardRig:Bip001 R Clavicle
+    400088: LizardRig:Bip001 R Finger0
+    400090: LizardRig:Bip001 R Finger01
+    400092: LizardRig:Bip001 R Finger0Nub
+    400094: LizardRig:Bip001 R Finger1
+    400096: LizardRig:Bip001 R Finger11
+    400098: LizardRig:Bip001 R Finger1Nub
+    400100: LizardRig:Bip001 R Finger2
+    400102: LizardRig:Bip001 R Finger21
+    400104: LizardRig:Bip001 R Finger2Nub
+    400106: LizardRig:Bip001 R Finger3
+    400108: LizardRig:Bip001 R Finger31
+    400110: LizardRig:Bip001 R Finger3Nub
+    400112: LizardRig:Bip001 R Foot
+    400114: LizardRig:Bip001 R Forearm
+    400116: LizardRig:Bip001 R Hand
+    400118: LizardRig:Bip001 R HorseLink
+    400120: LizardRig:Bip001 R Thigh
+    400122: LizardRig:Bip001 R Toe0
+    400124: LizardRig:Bip001 R Toe01
+    400126: LizardRig:Bip001 R Toe0Nub
+    400128: LizardRig:Bip001 R Toe1
+    400130: LizardRig:Bip001 R Toe11
+    400132: LizardRig:Bip001 R Toe1Nub
+    400134: LizardRig:Bip001 R Toe2
+    400136: LizardRig:Bip001 R Toe21
+    400138: LizardRig:Bip001 R Toe2Nub
+    400140: LizardRig:Bip001 R UpperArm
+    400142: LizardRig:Bip001 Spine
+    400144: LizardRig:Bip001 Spine1
+    400146: LizardRig:Bip001 Spine2
+    400148: LizardRig:Bip001 Tail
+    400150: LizardRig:Bip001 Tail1
+    400152: LizardRig:Bip001 Tail2
+    400154: LizardRig:Bip001 Tail3
+    400156: LizardRig:Bip001 Tail4
+    400158: LizardRig:Bip001 Tail5
+    400160: LizardRig:Bip001 TailNub
+    400162: LizardRig:eye1
+    400164: LizardRig:eye2
+    400166: LizardRig:Lizard_pinky
+    400168: LizardRig:SKINSKELETON
+    400170: LizardRig:ToDecimate_fbx
+    400172: //RootNode
+    2100000: LizardRig_eyes
+    2100002: LizardRig_lambert2
+    2300000: LizardRig:eye1
+    2300002: LizardRig:eye2
+    3300000: LizardRig:eye1
+    3300002: LizardRig:eye2
+    4300000: LizardRig:eye1
+    4300002: LizardRig:eye2
+    4300004: LizardRig:Lizard_pinky
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: LizardRig:Lizard_pinky
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LizardRig_eyes
+    second: {fileID: 2100000, guid: 23f53145931e34146901056b54f1008e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LizardRig_lambert2
+    second: {fileID: 2100000, guid: 0f943eb4aaf374740b60e8881525ae30, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: color
+    second: {fileID: 2800000, guid: 36bdcc7113cac6f4c955e2fa17baa507, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
