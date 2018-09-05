@@ -71,6 +71,67 @@ ModelImporter:
     100130: mixamorig:Spine1
     100132: mixamorig:Spine2
     100134: //RootNode
+    100136: Head
+    100138: HeadTop_End
+    100140: Hips
+    100142: LeftArm
+    100144: LeftFoot
+    100146: LeftForeArm
+    100148: LeftHand
+    100150: LeftHandIndex1
+    100152: LeftHandIndex2
+    100154: LeftHandIndex3
+    100156: LeftHandIndex4
+    100158: LeftHandMiddle1
+    100160: LeftHandMiddle2
+    100162: LeftHandMiddle3
+    100164: LeftHandMiddle4
+    100166: LeftHandPinky1
+    100168: LeftHandPinky2
+    100170: LeftHandPinky3
+    100172: LeftHandPinky4
+    100174: LeftHandRing1
+    100176: LeftHandRing2
+    100178: LeftHandRing3
+    100180: LeftHandRing4
+    100182: LeftHandThumb1
+    100184: LeftHandThumb2
+    100186: LeftHandThumb3
+    100188: LeftHandThumb4
+    100190: LeftLeg
+    100192: LeftShoulder
+    100194: LeftToe_End
+    100196: LeftToeBase
+    100198: LeftUpLeg
+    100200: Neck
+    100202: RightArm
+    100204: RightFoot
+    100206: RightForeArm
+    100208: RightHand
+    100210: RightHandIndex1
+    100212: RightHandIndex2
+    100214: RightHandIndex3
+    100216: RightHandIndex4
+    100218: RightHandPinky1
+    100220: RightHandPinky2
+    100222: RightHandPinky3
+    100224: RightHandPinky4
+    100226: RightHandRing1
+    100228: RightHandRing2
+    100230: RightHandRing3
+    100232: RightHandRing4
+    100234: RightHandThumb1
+    100236: RightHandThumb2
+    100238: RightHandThumb3
+    100240: RightHandThumb4
+    100242: RightLeg
+    100244: RightShoulder
+    100246: RightToe_End
+    100248: RightToeBase
+    100250: RightUpLeg
+    100252: Spine
+    100254: Spine1
+    100256: Spine2
     400000: mixamorig:Head
     400002: mixamorig:HeadTop_End
     400004: mixamorig:Hips
@@ -139,6 +200,67 @@ ModelImporter:
     400130: mixamorig:Spine1
     400132: mixamorig:Spine2
     400134: //RootNode
+    400136: Head
+    400138: HeadTop_End
+    400140: Hips
+    400142: LeftArm
+    400144: LeftFoot
+    400146: LeftForeArm
+    400148: LeftHand
+    400150: LeftHandIndex1
+    400152: LeftHandIndex2
+    400154: LeftHandIndex3
+    400156: LeftHandIndex4
+    400158: LeftHandMiddle1
+    400160: LeftHandMiddle2
+    400162: LeftHandMiddle3
+    400164: LeftHandMiddle4
+    400166: LeftHandPinky1
+    400168: LeftHandPinky2
+    400170: LeftHandPinky3
+    400172: LeftHandPinky4
+    400174: LeftHandRing1
+    400176: LeftHandRing2
+    400178: LeftHandRing3
+    400180: LeftHandRing4
+    400182: LeftHandThumb1
+    400184: LeftHandThumb2
+    400186: LeftHandThumb3
+    400188: LeftHandThumb4
+    400190: LeftLeg
+    400192: LeftShoulder
+    400194: LeftToe_End
+    400196: LeftToeBase
+    400198: LeftUpLeg
+    400200: Neck
+    400202: RightArm
+    400204: RightFoot
+    400206: RightForeArm
+    400208: RightHand
+    400210: RightHandIndex1
+    400212: RightHandIndex2
+    400214: RightHandIndex3
+    400216: RightHandIndex4
+    400218: RightHandPinky1
+    400220: RightHandPinky2
+    400222: RightHandPinky3
+    400224: RightHandPinky4
+    400226: RightHandRing1
+    400228: RightHandRing2
+    400230: RightHandRing3
+    400232: RightHandRing4
+    400234: RightHandThumb1
+    400236: RightHandThumb2
+    400238: RightHandThumb3
+    400240: RightHandThumb4
+    400242: RightLeg
+    400244: RightShoulder
+    400246: RightToe_End
+    400248: RightToeBase
+    400250: RightUpLeg
+    400252: Spine
+    400254: Spine1
+    400256: Spine2
     7400000: mixamo.com
     9500000: //RootNode
   externalObjects: {}
